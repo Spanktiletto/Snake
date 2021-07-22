@@ -1,0 +1,17 @@
+D:\Universidad\Testing Implementacion y Mantenimiento\JuegoSnake_CursoTesting\JuegoSnake_CursoTesting\TestsSnake\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Universidad\Testing Implementacion y Mantenimiento\JuegoSnake_CursoTesting\JuegoSnake_CursoTesting\TestsSnake\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Universidad\Testing Implementacion y Mantenimiento\JuegoSnake_CursoTesting\JuegoSnake_CursoTesting\TestsSnake\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Universidad\Testing Implementacion y Mantenimiento\JuegoSnake_CursoTesting\JuegoSnake_CursoTesting\TestsSnake\bin\Debug\TestsSnake.dll
+D:\Universidad\Testing Implementacion y Mantenimiento\JuegoSnake_CursoTesting\JuegoSnake_CursoTesting\TestsSnake\bin\Debug\TestsSnake.pdb
+D:\Universidad\Testing Implementacion y Mantenimiento\JuegoSnake_CursoTesting\JuegoSnake_CursoTesting\TestsSnake\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Universidad\Testing Implementacion y Mantenimiento\JuegoSnake_CursoTesting\JuegoSnake_CursoTesting\TestsSnake\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Universidad\Testing Implementacion y Mantenimiento\JuegoSnake_CursoTesting\JuegoSnake_CursoTesting\TestsSnake\bin\Debug\snake game.exe
+D:\Universidad\Testing Implementacion y Mantenimiento\JuegoSnake_CursoTesting\JuegoSnake_CursoTesting\TestsSnake\bin\Debug\snake game.pdb
+D:\Universidad\Testing Implementacion y Mantenimiento\JuegoSnake_CursoTesting\JuegoSnake_CursoTesting\TestsSnake\bin\Debug\snake game.exe.config
+D:\Universidad\Testing Implementacion y Mantenimiento\JuegoSnake_CursoTesting\JuegoSnake_CursoTesting\TestsSnake\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Universidad\Testing Implementacion y Mantenimiento\JuegoSnake_CursoTesting\JuegoSnake_CursoTesting\TestsSnake\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Universidad\Testing Implementacion y Mantenimiento\JuegoSnake_CursoTesting\JuegoSnake_CursoTesting\TestsSnake\obj\Debug\TestsSnake.csprojAssemblyReference.cache
+D:\Universidad\Testing Implementacion y Mantenimiento\JuegoSnake_CursoTesting\JuegoSnake_CursoTesting\TestsSnake\obj\Debug\TestsSnake.csproj.CoreCompileInputs.cache
+D:\Universidad\Testing Implementacion y Mantenimiento\JuegoSnake_CursoTesting\JuegoSnake_CursoTesting\TestsSnake\obj\Debug\TestsSnake.csproj.CopyComplete
+D:\Universidad\Testing Implementacion y Mantenimiento\JuegoSnake_CursoTesting\JuegoSnake_CursoTesting\TestsSnake\obj\Debug\TestsSnake.dll
+D:\Universidad\Testing Implementacion y Mantenimiento\JuegoSnake_CursoTesting\JuegoSnake_CursoTesting\TestsSnake\obj\Debug\TestsSnake.pdb
