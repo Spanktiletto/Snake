@@ -1,0 +1,17 @@
+D:\Universidad\Testing Implementacion y Mantenimiento\Git\Snake\TestsSnake\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Universidad\Testing Implementacion y Mantenimiento\Git\Snake\TestsSnake\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Universidad\Testing Implementacion y Mantenimiento\Git\Snake\TestsSnake\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Universidad\Testing Implementacion y Mantenimiento\Git\Snake\TestsSnake\bin\Debug\TestsSnake.dll
+D:\Universidad\Testing Implementacion y Mantenimiento\Git\Snake\TestsSnake\bin\Debug\TestsSnake.pdb
+D:\Universidad\Testing Implementacion y Mantenimiento\Git\Snake\TestsSnake\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Universidad\Testing Implementacion y Mantenimiento\Git\Snake\TestsSnake\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Universidad\Testing Implementacion y Mantenimiento\Git\Snake\TestsSnake\bin\Debug\snake game.exe
+D:\Universidad\Testing Implementacion y Mantenimiento\Git\Snake\TestsSnake\bin\Debug\snake game.pdb
+D:\Universidad\Testing Implementacion y Mantenimiento\Git\Snake\TestsSnake\bin\Debug\snake game.exe.config
+D:\Universidad\Testing Implementacion y Mantenimiento\Git\Snake\TestsSnake\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Universidad\Testing Implementacion y Mantenimiento\Git\Snake\TestsSnake\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Universidad\Testing Implementacion y Mantenimiento\Git\Snake\TestsSnake\obj\Debug\TestsSnakeGame.csprojAssemblyReference.cache
+D:\Universidad\Testing Implementacion y Mantenimiento\Git\Snake\TestsSnake\obj\Debug\TestsSnakeGame.csproj.CoreCompileInputs.cache
+D:\Universidad\Testing Implementacion y Mantenimiento\Git\Snake\TestsSnake\obj\Debug\TestsSnakeGame.csproj.CopyComplete
+D:\Universidad\Testing Implementacion y Mantenimiento\Git\Snake\TestsSnake\obj\Debug\TestsSnake.dll
+D:\Universidad\Testing Implementacion y Mantenimiento\Git\Snake\TestsSnake\obj\Debug\TestsSnake.pdb

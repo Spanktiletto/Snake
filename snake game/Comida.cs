@@ -8,8 +8,8 @@ namespace snake_game
 {
     public class Comida
     {
-        private int x, y, width, height; // posicion y coordenadas
-        private SolidBrush pincel;// dibuja la comida
+        public int x, y, width, height; // posicion y coordenadas
+        public SolidBrush pincel;// dibuja la comida
         public Rectangle comidarec;//la comida
         public Comida(Random randFood) // creacion de la primera comida
         {

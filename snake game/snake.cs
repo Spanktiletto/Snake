@@ -9,7 +9,7 @@ namespace snake_game
    public class snake
    {
        public Rectangle[] snakeRec;// la serpiente
-       private SolidBrush pincel; // "pincel" con el que se pinta 
+       public SolidBrush pincel; // "pincel" con el que se pinta 
        public int x, y, width, height;// coordenadas y posicion
       
        public Rectangle[] SnakeRec // returna la serpiente actual
